@@ -310,3 +310,196 @@ Avoid these, and your experience will improve dramatically.
 **Take your time.  
 Prepare carefully.  
 Adventure awaits.**
+
+# ⚔️ Combat Changes & Controls
+
+Combat in **NoviksPack – Adventure Awaits** is **completely overhauled**.  
+This is **not vanilla Minecraft combat** — success depends on timing, positioning, and understanding your weapon.
+
+If you ignore this page, you *will* struggle.
+
+---
+
+## 🧠 Core Combat Mods
+
+This modpack uses:
+- **Epic Fight** – Animation-based, soulslike combat
+- **Better Combat** – Weapon reach, attack arcs, and combos
+- Additional RPG and weapon mods that expand movesets
+
+Together, these systems replace vanilla click-spam combat.
+
+---
+
+## 🔄 What’s Different From Vanilla?
+
+### ❌ Vanilla Combat
+- Spam-click attacks
+- Minimal positioning
+- Shields solve most encounters
+
+### ✅ NoviksPack Combat
+- Attack animations lock you in briefly
+- Positioning and spacing matter
+- Dodging is essential
+- Shields are helpful, but not invincible
+- Some enemies punish reckless attacks
+
+---
+
+## 🎮 Essential Controls (CHECK THESE FIRST)
+
+⚠️ **Keybinds may vary — always check your Controls menu**
+
+### 🔑 Core Epic Fight Controls
+- **Attack** – Triggers animated attacks
+- **Dodge / Roll** – Avoid damage and reposition
+- **Lock-On** – Focus a target (recommended)
+- **Special Skill / Weapon Ability** – Weapon-dependent
+- **Combat Mode Toggle** – Enables advanced combat mode
+
+📌 **Important:**  
+> Many players forget to enable combat mode.  
+> Without it, weapons may feel weak or broken.
+
+---
+
+## 🗡️ Weapon Types & Behavior
+
+Each weapon behaves differently:
+
+### ⚔️ Swords & Blades
+- Balanced speed and damage
+- Good for learning combat
+- Combo-based attacks
+
+### 🪓 Heavy Weapons
+- Slow but devastating
+- High stamina commitment
+- Punish missed attacks
+
+### 🗡️ Daggers & Light Weapons
+- Fast attacks
+- Lower damage per hit
+- Excellent for hit-and-run tactics
+
+### 🏹 Ranged Weapons
+- Useful for pulling enemies
+- Not always safe in close quarters
+- Some bosses resist or counter ranged play
+
+---
+
+## 🌀 Dodging, Stamina & Timing
+
+- Dodging has a **cooldown**
+- Attacking commits you briefly
+- Overextending leaves you vulnerable
+
+✅ Learn enemy attack patterns  
+✅ Strike after enemy animations  
+✅ Dodge *through* attacks, not away randomly
+
+---
+
+## 🛡️ Shields & Defense
+
+Shields are **not invincibility tools**:
+- Some enemies break guards
+- Heavy attacks bypass shields
+- Poor stamina management leads to punishment
+
+Use shields **strategically**, not constantly.
+
+---
+
+## 👹 Enemy Difficulty & Scaling
+
+Mobs in this pack:
+- Have improved AI
+- Use abilities and special attacks
+- Appear in groups more often
+- Are stronger in structures and dungeons
+
+📌 **Rule of thumb:**
+> If it looks dangerous, it probably is.
+
+---
+
+## 🧿 Artifacts & Combat Synergy
+
+Artifacts and relics can:
+- Improve dodge cooldowns
+- Increase attack speed or damage
+- Enhance survivability
+
+⚠️ Combat becomes significantly harder without artifacts.
+
+➡️ See: **Artifacts & Relics Guide**
+
+---
+
+## 🧙 Magic & Abilities in Combat
+
+Magic complements combat:
+- **Ars Nouveau** offers mobility and utility
+- **Iron’s Spells** provide burst damage and control
+
+Magic is powerful, but reckless casting can be fatal.
+
+---
+
+## 🧪 Practice Tips
+
+✅ Test weapons on weaker mobs  
+✅ Fight enemies one at a time  
+✅ Carry backup weapons  
+✅ Learn when to retreat  
+✅ Don’t fight bosses unprepared  
+
+---
+
+## ❌ Common Combat Mistakes
+
+❌ Button-mashing  
+❌ Ignoring dodge mechanics  
+❌ Fighting multiple elites at once  
+❌ Using unfamiliar weapons in dungeons  
+❌ Entering structures undergeared  
+
+Avoid these to survive longer.
+
+---
+
+## ✅ Recommended Early Combat Setup
+
+- One reliable melee weapon
+- A shield
+- Light armor (mobility matters)
+- At least one artifact
+- Food with good saturation
+
+---
+
+## 📌 Final Advice
+
+Combat in NoviksPack rewards:
+- Patience
+- Observation
+- Preparation
+
+Rushing in is the fastest way to lose your gear.
+
+---
+
+## ➡️ Read Next
+- **Artifacts & Relics**
+- **Exploration Overview**
+- **Bosses & Dungeons Guide**
+- **FAQ & Troubleshooting**
+
+---
+
+**Learn the fight.  
+Respect your enemies.  
+Victory will follow.**

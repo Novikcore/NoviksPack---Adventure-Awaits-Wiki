@@ -1,6 +1,3 @@
-# NoviksPack---Adventure-Awaits-Wiki
-NoviksPack is a Forge 1.20.1 modpack centered on exploration, challenging combat, and steady progression, featuring overhauled world generation, dangerous new mobs and bosses, magic systems, gear upgrades, and quality-of-life and performance improvements !
-
 # 🌍 NoviksPack – Adventure Awaits
 
 **NoviksPack – Adventure Awaits** is a **combat-focused adventure RPG modpack** built around deep exploration, challenging enemies, powerful loot, and immersive world generation.  

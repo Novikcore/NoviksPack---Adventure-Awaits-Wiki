@@ -1429,4 +1429,163 @@ Magic is a **tool**, not a crutch.
 **Steel wins fights.  
 Magic shapes them.**
 
+# 📖 Mod List & Credits
 
+**NoviksPack – Adventure Awaits** is made possible by the incredible work of the Minecraft modding community.  
+All mods remain the property of their respective authors.  
+This page exists to provide transparency, attribution, and quick reference.
+
+---
+
+## ❤️ Acknowledgements
+
+A huge thank you to:
+- Every mod author whose work appears in this pack
+- Open-source contributors and library developers
+- The Minecraft modding community as a whole
+
+Without them, this pack would not exist.
+
+---
+
+## ⚔️ Core Gameplay Mods
+
+### Combat & RPG
+- Epic Fight — *maninthe_home*
+- Better Combat — *daedelus_dev*
+- Soulslike Universe — *retriever_sunwoo*
+- Marium’s Soulslike Weaponry — *mariumbacchus*
+- Weapons of Miracles — *reascer*
+- DarkBlades — *GamerPotion*
+- Armor Set Bonuses — *SpaceCat_97*
+
+---
+
+## 🧿 Artifacts, Relics & Loot
+
+- Artifacts — *ochotonida*
+- More Artifacts — *gobies*
+- Relics — *SSKirillSS*
+- L2 Artifacts — *lcy0x1*
+- MC Dungeons Artifacts — *chronos_sacaria*
+- Lootr — *Noobanidus*
+- Loot Bags & Crates — *tjibbe1*
+- Boss Loot Bags — *CatOnToast*
+- Gateways to Eternity — *Shadows_of_Fire*
+
+---
+
+## 🧙 Magic Systems
+
+- Ars Nouveau — *baileyholl2*
+- Ars Elemental — *Alexth99*
+- Iron’s Spells ‘n Spellbooks — *Iron431*
+
+---
+
+## 🏰 World Generation & Structures
+
+- When Dungeons Arise — *Aureljz*
+- YUNG’s Better Dungeons — *YUNGNICKYOUNG*
+- YUNG’s Better Strongholds — *YUNGNICKYOUNG*
+- YUNG’s Better Nether Fortresses — *YUNGNICKYOUNG*
+- YUNG’s Better End Island — *YUNGNICKYOUNG*
+- Repurposed Structures — *telepathicgrunt*
+- Dungeons Enhanced — *Valarauko9*
+- Dungeon Crawl — *xiroc_*
+- Towns and Towers — *Biban_Auriu*
+- Explorify — *bebebea_loste*
+- MES – Moog’s End Structures — *finndog_123*
+- Structory: Towers — *botanydev*
+
+---
+
+## 🌍 Biomes, Dimensions & Mobs
+
+- Biomes O’ Plenty — *Forstride*
+- TerraBlender — *TheAdubbz*
+- The Twilight Forest — *Benimatic*
+- The Undergarden — *Quek04*
+- Deeper and Darker — *KyaniteMods*
+- Alex’s Mobs — *sbom_xela*
+- Alex’s Caves — *sbom_xela*
+- Mowzie’s Mobs — *bobmowzie*
+- Upgrade Aquatic — *TeamAbnormals*
+- Aquamirae — *Obscuria*
+
+---
+
+## 🎒 Quality of Life
+
+- Waystones — *BlayTheNinth*
+- Corpse — *henkelmax*
+- Jade — *Snownee*
+- AppleSkin — *squeek502*
+- Cosmetic Armor Reworked — *LainMI*
+- Carry On — *Tschipp*
+- Comforts — *TheIllusiveC4*
+- Starter Kit — *Serilum*
+
+---
+
+## ⚙️ Performance, Server & Utilities
+
+- ModernFix — *embeddedt*
+- FerriteCore — *malte0811*
+- Clumps — *Jaredlll08*
+- AI Improvements — *QueenOfMissiles*
+- spark — *lucko*
+- ServerCore — *Wesley8081*
+- Simple Voice Chat — *henkelmax*
+- FTB Quests / Teams / Ranks — *FTB Team*
+
+---
+
+## 🧱 Libraries & APIs
+
+This pack relies on many essential libraries, including but not limited to:
+- Architectury API
+- Curios API
+- GeckoLib
+- Bookshelf
+- Balm
+- Placebo
+- Resourceful Lib
+- Cloth Config
+- Puzzles Lib
+- Framework
+- Citadel
+
+---
+
+## ⚠️ Full Mod List
+
+Due to the size of the modpack, the **complete mod list** is provided via:
+- Modpack manifest
+- Launcher mod list
+- Repository files
+
+This wiki lists major gameplay-impacting mods only.
+
+---
+
+## ✅ Permissions & Distribution
+
+- All mods are distributed according to their respective licenses
+- No ownership is claimed over third-party content
+- This pack is provided for free
+
+---
+
+## 📌 Contact & Credits Updates
+
+If you are a mod author and:
+- Want credit adjusted
+- Want a link added
+- Have concerns about inclusion
+
+Please open an issue on the GitHub repository.
+
+---
+
+**Thank you to every creator who made this adventure possible.**

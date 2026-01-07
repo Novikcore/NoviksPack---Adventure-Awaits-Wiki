@@ -503,3 +503,929 @@ Rushing in is the fastest way to lose your gear.
 **Learn the fight.  
 Respect your enemies.  
 Victory will follow.**
+
+# 🧿 Artifacts & Relics
+
+Artifacts and relics are the **backbone of progression** in  
+**NoviksPack – Adventure Awaits**.
+
+They provide powerful passive and active abilities that **define your playstyle**, improve survivability, and unlock late‑game combat potential.  
+Ignoring them will make the pack significantly harder.
+
+---
+
+## 🧠 What Are Artifacts & Relics?
+
+Artifacts are **equipable items** that grant special effects such as:
+- Increased damage or attack speed
+- Dodge or movement bonuses
+- Damage resistance or regeneration
+- Utility abilities (mobility, vision, loot bonuses)
+
+Relics function similarly but often:
+- Scale with use
+- Offer unique mechanics
+- Reward long‑term investment
+
+---
+
+## 📦 Artifact Systems in This Pack
+
+This modpack includes multiple artifact systems:
+
+### 🔹 Artifacts
+Classic equippable items with strong passive bonuses.
+
+### 🔹 More Artifacts
+Adds additional artifact variety and builds.
+
+### 🔹 Relics
+Progressive artifacts that grow stronger as you use them.
+
+### 🔹 L2 Artifacts
+Combat-focused artifacts that synergize heavily with Epic Fight.
+
+### 🔹 MC Dungeons Artifacts
+Active-use artifacts inspired by Minecraft Dungeons.
+
+✅ All systems stack and complement each other.
+
+---
+
+## 🎒 Equipping Artifacts
+
+Artifacts are equipped using **Curios slots**.
+
+### 📌 Important Notes
+- Artifact slots are limited
+- Choosing the right artifacts matters
+- Some artifacts conflict or overlap in purpose
+
+✅ You are encouraged to specialize rather than equip random artifacts.
+
+---
+
+## ⚔️ Artifact Playstyles
+
+Artifacts allow you to shape your combat identity.
+
+### 🗡️ Melee Fighter
+- Attack speed bonuses
+- Damage boosts
+- Life steal or on-hit effects
+
+### 🛡️ Tank / Defender
+- Damage reduction
+- Health bonuses
+- Knockback resistance
+
+### 🌀 Agile / Dodge-Based
+- Faster dodge cooldowns
+- Movement speed
+- Evasion effects
+
+### 🧙 Spellblade / Hybrid
+- Mana regeneration
+- Spell damage boosts
+- Combat–magic synergy
+
+---
+
+## 🗺️ Where to Find Artifacts
+
+Artifacts are primarily obtained through:
+- Dungeon chests
+- Structure loot
+- Boss drops
+- Gateways to Eternity
+- Rare overworld events
+
+📌 **Higher risk = better artifacts**
+
+---
+
+## ⚠️ Artifact Power Scaling
+
+- Early artifacts are helpful
+- Mid-game artifacts define builds
+- Late-game artifacts are game-changing
+
+⚠️ Some encounters assume artifact usage.
+
+---
+
+## ☠️ Death, Loss & Recovery
+
+Artifacts are **not consumed on death**.
+
+Thanks to **Corpse**:
+- Your artifacts remain with your items
+- Recovering your body restores them
+
+⚠️ However, losing access to your artifacts temporarily makes combat much harder.
+
+---
+
+## 🧪 Relics: Growth Through Use
+
+Relics:
+- Gain experience as you use them
+- Unlock stronger effects over time
+- Encourage long-term commitment
+
+📌 Switching relics constantly slows progression.
+
+---
+
+## 🔧 Artifact Management Tips
+
+✅ Read artifact descriptions carefully  
+✅ Test combinations in safe areas  
+✅ Replace outdated artifacts  
+✅ Keep backups for risky exploration  
+✅ Synergize with your weapon choice  
+
+---
+
+## ❌ Common Artifact Mistakes
+
+❌ Ignoring Curios slots  
+❌ Equipping random artifacts without synergy  
+❌ Hoarding instead of upgrading  
+❌ Entering bosses artifact-less  
+
+---
+
+## 🧭 Recommended Artifact Progression
+
+1. Equip your first artifact ASAP
+2. Build around your main weapon
+3. Add defensive utility
+4. Upgrade or replace weaker artifacts
+5. Specialize for bosses or dimensions
+
+---
+
+## ⚔️ Artifact Synergy with Combat
+
+Artifacts significantly affect:
+- Dodge effectiveness
+- Attack speed and recovery
+- Survivability in multi-enemy fights
+- Boss endurance battles
+
+➡️ See: **Combat Changes & Controls**
+
+---
+
+## ✅ What to Read Next
+
+➡️ **Exploration Overview**  
+➡️ **Bosses & Dungeons**  
+➡️ **Magic Systems**  
+➡️ **FAQ & Troubleshooting**
+
+---
+
+**Artifacts define the hero.  
+Relics define the legend.**
+
+# 🧭 Exploration Overview
+
+Exploration is the **core gameplay loop** of  
+**NoviksPack – Adventure Awaits**.
+
+Progression is driven by discovering new structures, looting dangerous areas, and surviving encounters designed to test your preparation and combat skill.
+
+If you stop exploring, progression stops.
+
+---
+
+## 🌍 How Exploration Is Different
+
+Exploration in this pack is:
+- More dangerous than vanilla
+- Reward-focused rather than resource-focused
+- Designed around **risk vs reward**
+- Often combat-heavy
+
+Many structures are meant to be **mini-dungeons**, not sightseeing locations.
+
+---
+
+## 🗺️ World Generation Highlights
+
+The world is heavily expanded using multiple structure and biome mods, including:
+- YUNG’s Better series
+- When Dungeons Arise
+- Dungeons Enhanced
+- Dungeon Crawl
+- Repurposed Structures
+- Towns and Towers
+- Explorify
+
+This creates:
+✅ More landmarks  
+✅ More verticality  
+✅ More combat encounters  
+
+---
+
+## 🏰 Structure Difficulty Tiers
+
+Not all structures are equal. Learn to recognize danger.
+
+### 🟢 Low-Risk (Early Game)
+- Villages
+- Camps
+- Small ruins
+- Towers with limited mob density
+
+✅ Good for early loot and artifacts
+
+---
+
+### 🟡 Medium-Risk (Mid Game)
+- Large overworld dungeons
+- Underground ruins
+- Fortified structures
+- Nether outposts
+
+⚠️ Requires:
+- Combat knowledge
+- Artifacts
+- Decent gear
+
+---
+
+### 🔴 High-Risk (Late Game)
+- Massive dungeons
+- Boss arenas
+- Gateways to Eternity
+- End & Deep Dark structures
+
+❌ Do not enter unprepared
+
+---
+
+## 🌋 Dimension-Specific Exploration
+
+### 🔥 The Nether
+- Overhauled terrain and structures
+- Improved fortresses
+- Stronger mobs
+
+✅ Fire resistance and mobility recommended
+
+---
+
+### 🌌 The End
+- Expanded End islands
+- Dangerous vertical combat
+- High-tier loot
+
+✅ Ranged options and movement artifacts help
+
+---
+
+### 🌲 Twilight Forest
+- Structured progression
+- Boss-gated advancement
+- Clear difficulty scaling
+
+✅ Follow mod progression rules
+
+---
+
+### 🌑 Deeper and Darker
+- Extremely dangerous
+- High-level combat required
+- Powerful rewards
+
+❌ Not an early-game dimension
+
+---
+
+## 🧿 Loot & Exploration Synergy
+
+Exploration is the **main source** of:
+- Artifacts
+- Relics
+- Rare weapons
+- Boss loot
+- Endgame materials
+
+Mining alone will not carry progression.
+
+---
+
+## 🧭 Navigation & Mapping Tools
+
+The pack includes:
+- **Xaero’s Minimap**
+- **Xaero’s World Map**
+- **Waystones**
+
+✅ Mark dangerous locations  
+✅ Track dungeons  
+✅ Set return paths  
+
+---
+
+## ☠️ Exploration & Death
+
+Death is expected.
+
+Thanks to **Corpse**:
+- Items remain at death location
+- Recovery is encouraged, not punished
+
+📌 Always:
+- Carry backup gear
+- Mark death locations
+- Retreat when overwhelmed
+
+---
+
+## 🛠️ Exploration Preparation Checklist
+
+Before long expeditions:
+✅ Repair gear  
+✅ Equip artifacts  
+✅ Bring food with high saturation  
+✅ Carry torches and blocks  
+✅ Set a return Waystone or marker  
+
+---
+
+## ❌ Common Exploration Mistakes
+
+❌ Entering unknown structures blindly  
+❌ Ignoring mob sounds  
+❌ Fighting entire dungeons at once  
+❌ Exploring at night unprepared  
+❌ Overextending without retreat options  
+
+---
+
+## 🧠 Exploration Mindset
+
+Treat exploration like a dungeon crawler:
+- Scout first
+- Clear methodically
+- Secure escape routes
+- Retreat when necessary
+
+The world rewards patience.
+
+---
+
+## ✅ What to Read Next
+
+➡️ **Bosses & Dungeons**  
+➡️ **Artifacts & Relics**  
+➡️ **Combat Changes & Controls**  
+➡️ **FAQ & Troubleshooting**
+
+---
+
+**The world is vast.  
+The danger is real.  
+Explore wisely.**
+
+# 🏰 Bosses & Dungeons
+
+Bosses and dungeons are the **primary progression checkpoints** in  
+**NoviksPack – Adventure Awaits**.
+
+They are designed to test:
+- Combat mastery
+- Artifact synergy
+- Preparation and patience
+
+Rushing in unprepared is the fastest way to lose your gear.
+
+---
+
+## ⚠️ Important Expectations
+
+- Dungeons are **not loot piñatas**
+- Bosses often have special mechanics
+- Many encounters punish reckless play
+- Retreating is sometimes the correct choice
+
+This pack follows a **soulslike dungeon philosophy**.
+
+---
+
+## 🗺️ Dungeon Types
+
+### 🟢 Small Dungeons (Early Game)
+- Towers
+- Camps
+- Small ruins
+- Surface structures
+
+✅ Few elite mobs  
+✅ Good artifact chance  
+✅ Learn combat safely  
+
+---
+
+### 🟡 Medium Dungeons (Mid Game)
+- Large overworld dungeons
+- Fortified underground structures
+- Nether ruins and outposts
+
+⚠️ Increased mob density  
+⚠️ Elite enemies  
+⚠️ Multi-room combat  
+
+---
+
+### 🔴 Major Dungeons (Late Game)
+- Massive multi-floor structures
+- Gateways to Eternity
+- Deep End and Deep Dark dungeons
+
+❌ Expect:
+- High mob counts
+- Boss encounters
+- Limited escape routes
+
+---
+
+## 👹 Boss Encounters
+
+Bosses in this pack come from multiple mods, including:
+- Twilight Forest
+- Mowzie’s Mobs
+- Deeper and Darker
+- Aquamirae
+- Soulslike weapon & boss mods
+- Gateways to Eternity
+
+Each boss may feature:
+- Multiple phases
+- Special attacks
+- Environmental hazards
+
+---
+
+## ⚔️ Boss Preparation Checklist
+
+Before fighting a boss:
+✅ Equip synergized artifacts  
+✅ Repair all gear  
+✅ Bring backup weapons  
+✅ Stock high-saturation food  
+✅ Clear nearby mobs  
+✅ Set a Waystone or spawn point  
+
+---
+
+## 🧿 Artifacts & Boss Fights
+
+Artifacts are **mandatory** for boss progression.
+
+Examples of useful bonuses:
+- Dodge cooldown reduction
+- Damage mitigation
+- Sustain effects
+- Movement enhancements
+
+📌 Bosses are balanced assuming artifact usage.
+
+➡️ See: **Artifacts & Relics**
+
+---
+
+## 🛡️ Arena Control & Positioning
+
+Boss arenas often:
+- Limit movement
+- Punish cornering
+- Spawn additional mobs
+
+✅ Clear the arena first  
+✅ Learn attack tells  
+✅ Fight near escape routes  
+✅ Avoid tunnel vision  
+
+---
+
+## ☠️ Death & Recovery
+
+Death during bosses is expected.
+
+Thanks to **Corpse**:
+- Your items remain recoverable
+- Bosses do not permanently lock you out
+
+📌 Learn from each attempt.
+
+---
+
+## 🧭 Dungeon Clearing Strategy
+
+1. Scout entrances
+2. Clear room by room
+3. Secure escape paths
+4. Loot methodically
+5. Retreat when resources run low
+
+This is **not** a speedrun pack.
+
+---
+
+## ❌ Common Boss & Dungeon Mistakes
+
+❌ Fighting bosses without artifacts  
+❌ Ignoring dodge mechanics  
+❌ Pulling entire rooms  
+❌ Panicking after mistakes  
+❌ Refusing to retreat  
+
+---
+
+## 🧠 Recommended Progression Flow
+
+1. Small dungeons
+2. Medium overworld dungeons
+3. Twilight Forest bosses
+4. Nether bosses & fortresses
+5. Major dungeons
+6. End & Deep Dark bosses
+
+---
+
+## ✅ What to Read Next
+
+➡️ **Magic Systems**  
+➡️ **Artifacts & Relics**  
+➡️ **FAQ & Troubleshooting**  
+➡️ **Server Setup Guide**
+
+---
+
+**Every dungeon is a challenge.  
+Every boss is a lesson.  
+Victory is earned.**
+
+# ❓ FAQ & Troubleshooting
+
+This page covers the **most common questions and problems** encountered in  
+**NoviksPack – Adventure Awaits**.
+
+If you’re experiencing issues, read this page fully before asking for help.
+
+---
+
+## ❓ Frequently Asked Questions
+
+### ❓ Is this pack supposed to be this hard?
+✅ **Yes.**
+
+The pack is designed around:
+- Skill-based combat
+- Artifact-driven progression
+- Dangerous exploration
+
+If combat feels unfair, review:
+➡️ **Combat Changes & Controls**  
+➡️ **Artifacts & Relics**
+
+---
+
+### ❓ Why do mobs feel stronger than vanilla?
+Mobs are enhanced through:
+- Better AI
+- Improved attributes
+- Combat system changes
+- Dungeon-based scaling
+
+This is intentional.
+
+---
+
+### ❓ I keep dying early — what should I do?
+✅ This is normal.
+
+Recommended steps:
+- Slow down exploration
+- Avoid large structures early
+- Equip artifacts ASAP
+- Learn dodge and spacing mechanics
+
+---
+
+### ❓ Do I need magic to progress?
+❌ **No**, but it helps.
+
+Magic systems are optional and designed to:
+- Support melee combat
+- Provide utility and control
+
+---
+
+### ❓ Can I play this pack multiplayer?
+✅ **Yes.**
+
+The pack includes:
+- Server optimizations
+- Team and rank support
+- Voice chat
+
+---
+
+## 🛠️ Common Issues & Fixes
+
+### 🧠 Combat Feels Broken or Weird
+✅ Make sure:
+- Epic Fight combat mode is enabled
+- You are not button-mashing
+- You checked keybinds
+
+➡️ **Controls → Epic Fight**
+
+---
+
+### ⌨️ Keybind Conflicts
+With many mods installed, conflicts are common.
+
+✅ Fix:
+- Controls → Search by key
+- Rebind Epic Fight and Dodge keys
+- Avoid shared keys for combat actions
+
+---
+
+### 🗺️ Minimap or Map Not Showing
+✅ Fix:
+- Open Xaero’s settings
+- Enable minimap/world map
+- Check keybinds for toggles
+
+---
+
+### 💀 Lost Items After Death
+This pack uses **Corpse**.
+
+✅ Your items:
+- Are stored at your death location
+- Do not despawn
+
+✅ Fix:
+- Return to your corpse
+- Interact to recover items
+
+---
+
+### 🔁 World or Structure Lag
+Large structures can cause short lag spikes.
+
+✅ Solutions:
+- Let chunks fully load
+- Avoid flying through new areas too quickly
+- Reduce render distance if needed
+
+---
+
+### 🧱 Crashes on World Load or Join
+This is usually caused by:
+- Corrupt config
+- Connector/Fabric bridge conflicts
+- Outdated GPU drivers
+
+✅ Fixes:
+1. Restart the game
+2. Delete the `config` folder (will regenerate)
+3. Update graphics drivers
+4. Allocate more RAM
+
+---
+
+### 🖥️ Performance Issues / Low FPS
+✅ Try:
+- Lowering shader settings (if using Oculus)
+- Reducing render & simulation distance
+- Closing background apps
+
+The pack includes performance mods — poor FPS is usually system-related.
+
+---
+
+### 🌐 Server-Specific Issues
+
+✅ Ensure:
+- Server and client use **exact same modpack version**
+- Server has enough RAM
+- Java version matches pack requirements
+
+---
+
+## 📌 Known Limitations
+
+- Fabric mods are loaded through **Sinytra Connector**
+- Rare incompatibilities may occur
+- Some structure overlap is intentional
+
+Report repeatable crashes with logs.
+
+---
+
+## 🧾 How to Report a Bug
+
+When reporting issues, include:
+✅ Modpack version  
+✅ Minecraft version  
+✅ Crash log (`latest.log` or crash report)  
+✅ What you were doing when it happened  
+
+Incomplete reports may be ignored.
+
+---
+
+## ✅ Where to Get Help
+
+- GitHub Issues (recommended)
+- Discord (if available)
+- Modpack page comments
+
+Always check this page first.
+
+---
+
+## ✅ Still Having Trouble?
+
+➡️ Re-read:
+- **Getting Started**
+- **Combat Changes & Controls**
+- **Artifacts & Relics**
+
+Most problems come from missing one of these concepts.
+
+---
+
+**This pack rewards patience and preparation.  
+If something feels impossible, it’s usually a sign to slow down.**
+
+# 🧙 Magic Systems
+
+Magic in **NoviksPack – Adventure Awaits** is designed to **support and enhance combat**, not replace it.
+
+Spells provide mobility, control, burst damage, and utility that synergize with melee, artifacts, and exploration rather than acting as a stand‑alone progression path.
+
+---
+
+## 🧠 Magic Philosophy
+
+- Magic is **optional**, but powerful
+- Spells reward planning and positioning
+- Mana management matters
+- Reckless casting is dangerous
+
+You can complete the pack without magic — but mastery makes progression smoother.
+
+---
+
+## 📚 Magic Mods in This Pack
+
+### 🔮 Ars Nouveau
+A modular spell‑creation system allowing players to:
+- Create custom spells
+- Combine effects (projectiles, buffs, summons)
+- Tailor magic to personal playstyle
+
+Ars Nouveau excels at **utility and adaptability**.
+
+---
+
+### 🌊 Ars Elemental
+An expansion to Ars Nouveau that adds:
+- Elemental spell augments
+- Stronger elemental damage types
+- Enhanced synergy with combat builds
+
+Ideal for players who want spell‑augmented melee combat.
+
+---
+
+### 📖 Iron’s Spells ‘n Spellbooks
+A more traditional spellcasting system featuring:
+- Pre‑made spells
+- Spellbooks and spell slots
+- High‑impact combat magic
+
+This system focuses on **burst damage and control**.
+
+---
+
+## ⚔️ Magic & Combat Synergy
+
+Magic shines when combined with melee combat:
+
+✅ Crowd control before engagement  
+✅ Mobility spells for repositioning  
+✅ Buffs before boss fights  
+✅ Ranged options for dangerous mobs  
+
+📌 Standing still and casting in combat is risky — mobility matters.
+
+➡️ See: **Combat Changes & Controls**
+
+---
+
+## 🧿 Artifacts & Magic
+
+Many artifacts enhance magic:
+- Mana regeneration
+- Spell damage bonuses
+- Cooldown reduction
+- Defensive casting bonuses
+
+Magic users should treat artifacts as **mandatory**.
+
+➡️ See: **Artifacts & Relics**
+
+---
+
+## 🧪 Early Magic Tips
+
+✅ Start with utility spells  
+✅ Avoid long cast times early  
+✅ Use magic to control fights, not tank them  
+✅ Practice in safe areas  
+
+Early magic is about **survivability**, not raw power.
+
+---
+
+## 🌌 Magic in Exploration
+
+Magic is especially useful for:
+- Traversing dangerous terrain
+- Escaping overwhelming encounters
+- Scouting structures
+- Fighting in vertical or tight spaces
+
+Exploration becomes safer and faster with magic support.
+
+➡️ See: **Exploration Overview**
+
+---
+
+## 👹 Magic in Boss Fights
+
+Boss encounters often:
+- Punish stationary casting
+- Counter pure ranged play
+- Require movement and timing
+
+✅ Use magic between attack windows  
+✅ Combine spells with dodge mechanics  
+✅ Save high‑cost spells for safe openings  
+
+---
+
+## ❌ Common Magic Mistakes
+
+❌ Casting mid‑enemy combo  
+❌ Ignoring mana economy  
+❌ Over‑investing in magic early  
+❌ Forgetting defensive artifacts  
+
+---
+
+## 🧭 Recommended Magic Progression
+
+1. Learn basic spells
+2. Add mobility and utility
+3. Integrate combat buffs
+4. Expand elemental options
+5. Optimize artifact synergy
+
+---
+
+## ✅ Is Magic Required?
+
+❌ No — melee‑only builds are viable  
+✅ Yes — magic makes encounters safer  
+
+Magic is a **tool**, not a crutch.
+
+---
+
+## ✅ What to Read Next
+
+➡️ **Artifacts & Relics**  
+➡️ **Bosses & Dungeons**  
+➡️ **Exploration Overview**  
+➡️ **FAQ & Troubleshooting**
+
+---
+
+**Steel wins fights.  
+Magic shapes them.**
+
+

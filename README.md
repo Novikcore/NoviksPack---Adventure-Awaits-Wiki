@@ -1,4 +1,4 @@
-_Sidebar
+
 # 🌍 NoviksPack – Adventure Awaits
 
 **NoviksPack – Adventure Awaits** is a **combat-focused adventure RPG modpack** built around deep exploration, challenging enemies, powerful loot, and immersive world generation.  

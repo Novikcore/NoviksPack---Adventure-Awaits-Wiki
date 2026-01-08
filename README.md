@@ -10,7 +10,7 @@ Whether you are delving into ancient ruins, fighting legendary bosses, or master
 
 ## 🧭 Pack Overview
 
-- **Minecraft Version:** *(add version here)*
+- **Minecraft Version:** *1.20.1*
 - **Mod Loader:** Forge / NeoForge (with Fabric support via Sinytra Connector)
 - **Genre:** Adventure • RPG • Exploration • Soulslike Combat
 - **Multiplayer Friendly:** ✅ Yes
